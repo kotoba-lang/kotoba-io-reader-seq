@@ -2,4 +2,4 @@
 
 `kotoba.io.reader-seq/reader-seq`
 
-One definition. Reaches kotoba.io.ireader.
+One definition. Reaches kotoba.io.reader.

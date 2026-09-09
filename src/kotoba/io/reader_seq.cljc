@@ -5,7 +5,7 @@
   here is the DEFINITION, and this repo's deps.edn names exactly the
   definitions it reaches -- nothing else.
 "
-  (:require [kotoba.io.ireader :refer [IReader read!]])
+  (:require [kotoba.io.reader :refer [Reader read!]])
 )
 
 (defn reader-seq
