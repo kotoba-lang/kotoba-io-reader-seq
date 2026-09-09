@@ -5,7 +5,8 @@
   here is the DEFINITION, and this repo's deps.edn names exactly the
   definitions it reaches -- nothing else.
 "
-  (:require [kotoba.io.ireader :refer [IReader read!]]))
+  (:require [kotoba.io.ireader :refer [IReader read!]])
+)
 
 (defn reader-seq
   "A lazy seq of chunks from `reader` until EOF. Realizes on consumption."

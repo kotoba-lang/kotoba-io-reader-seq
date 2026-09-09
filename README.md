@@ -1,4 +1,4 @@
-# io-reader-seq
+# kotoba-io-reader-seq
 
 `kotoba.io.reader-seq/reader-seq`
 
